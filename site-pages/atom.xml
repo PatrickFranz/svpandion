@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>A small family cruising</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>The Plan</title>
+        
+          <description>&lt;!-- intro --&gt;
+&lt;h1&gt;&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Fri, 28 Dec 2018 00:00:00 -0800</pubDate>
+        <link>
+        http://localhost:4000/the-plan.html</link>
+        <guid isPermaLink="true">http://localhost:4000/the-plan.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Welcome to Ghost</title>
+        
+          <description>&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 27 Jul 2017 03:00:00 -0700</pubDate>
+        <link>
+        http://localhost:4000/welcome.html</link>
+        <guid isPermaLink="true">http://localhost:4000/welcome.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>A Full and Comprehensive Style Test</title>
+        
+          <description>&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 01 Sep 2012 03:00:00 -0700</pubDate>
+        <link>
+        http://localhost:4000/a-full-and-comprehensive-style-test.html</link>
+        <guid isPermaLink="true">http://localhost:4000/a-full-and-comprehensive-style-test.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Down The Rabbit Hole</title>
+        
+          <description>&lt;p&gt;Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, ‘and what is the use of a book,’ thought Alice ‘without pictures or conversation?’&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 26 Nov 1865 02:23:06 -0752</pubDate>
+        <link>
+        http://localhost:4000/down-the-rabbit-hole.html</link>
+        <guid isPermaLink="true">http://localhost:4000/down-the-rabbit-hole.html</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Gettysburg Address</title>
+        
+          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Nov 1863 02:23:06 -0752</pubDate>
+        <link>
+        http://localhost:4000/gettysburg-address.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gettysburg-address.html</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

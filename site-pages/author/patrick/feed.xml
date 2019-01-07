@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/author/patrick/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2019-01-07T10:18:27-08:00</updated>
+  <id>http://localhost:4000/author/patrick/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">SV Pandion | </title>
+  
+
+  
+    <subtitle>A small family cruising</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">The Plan</title>
+      <link href="http://localhost:4000/the-plan.html" rel="alternate" type="text/html" title="The Plan" />
+      <published>2018-12-28T00:00:00-08:00</published>
+      <updated>2018-12-28T00:00:00-08:00</updated>
+      <id>http://localhost:4000/the-plan</id>
+      <content type="html" xml:base="http://localhost:4000/the-plan.html">&lt;!-- intro --&gt;
+&lt;h1&gt;&lt;/h1&gt;
+
+&lt;p&gt;As it happens in most social situations, the fact we live on a boat, and are planning on sailing off into the sunset often gets brought up. &quot;Where are you going to go?&quot; is always the question, and until the other day, the answer was a vague, &quot;well, south&quot;.&lt;/p&gt;
+
+&lt;p&gt;We wanted to start our year with a plan, so a couple of days before the ball dropped in Times Square we gathered our tools and a cocktail and sat down with the determination that we weren't leaving the table till we had our plan, no matter how many cocktails it takes!&lt;/p&gt;
+
+&lt;p&gt;As we get closer to our 'cast off' day, we are finding we need more of a concrete(ish) plan for a few reasons.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We need to plan around seasonal weather patterns&lt;/li&gt;
+  &lt;li&gt;We need to figure out our longer passages where we might want extra crew aboard&lt;/li&gt;
+  &lt;li&gt;Having a date, helps to motivate project completions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Well it turns out we had our plan mostly figured out and agreed upon before we even started so it was just a matter of attaching a timeline. Only one cocktail was required.&lt;/p&gt;
+
+&lt;!-- overall plan --&gt;
+&lt;h2&gt;What's the Big Idea&lt;/h2&gt;
+&lt;p&gt;So far our plan is to follow the Pacific Circuit, which runs clockwise from San Francisco. This route is popular due to all of the 'hot spots' that are included. It also involves a number of big passages.&lt;/p&gt;
+
+&lt;p&gt;The big picture looks something like this.&lt;/p&gt;
+
+&lt;h6&gt;First Leg&lt;/h6&gt;
+San Francisco -&gt; San Diego -&gt; Cabo San Lucas -&gt; La Paz
+
+&lt;h6&gt;Second Leg&lt;/h6&gt;
+Cabo San Jose -&gt; Marquesa Islands -&gt; Tahiti
+
+&lt;h6&gt;Third Leg&lt;/h6&gt;
+Tahiti -&gt; Line Islands
+
+&lt;h6&gt;Fourth Leg&lt;/h6&gt;
+Line Islands -&gt; Hawaiian Islands
+
+&lt;h6&gt;Fifth Leg&lt;/h6&gt;
+Hawaiian Islands -&gt; Alaska
+
+&lt;h6&gt;Final Leg&lt;/h6&gt;
+Alaska -&gt; Vancouver
+
+&lt;!-- mexico plan --&gt;
+
+&lt;!-- itinerary --&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Patrick</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Gettysburg Address</title>
+      <link href="http://localhost:4000/gettysburg-address.html" rel="alternate" type="text/html" title="Gettysburg Address" />
+      <published>1863-11-19T02:23:06-07:52</published>
+      <updated>1863-11-19T02:23:06-07:52</updated>
+      <id>http://localhost:4000/gettysburg-address</id>
+      <content type="html" xml:base="http://localhost:4000/gettysburg-address.html">&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+&lt;p&gt;Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.&lt;/p&gt;
+
+&lt;p&gt;But, in a larger sense, we can not dedicate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Patrick</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
