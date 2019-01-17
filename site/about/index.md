@@ -1,13 +1,12 @@
 ---
 layout: page
-current: page
-cover: 'assets/images/waves.jpg'
+current: about
 title: About Us
-date: 1912-07-24 10:18:00
-author: edgar
+navigation: true
+logo: 'assets/images/ghost.png'
+class: page-template
+subclass: 'post page'
 ---
-About 
-
 SV Pandion is a sailing vessel with a small quirky family aboard. Patrick is an IT professional, web developer, rock climber and avid sailor. Tara is a Sociologist who works in UX Research, teaches yoga and is becoming an avid canvas fabricator. Everest is a young rock star who is passionate about music, video games and his love of pugs, especially our little boat pet Salty the Pug.  
 
 We’ve been sailing primarily around the San Francisco Bay near the Golden Gate and in the Monterey Bay. We’ve sailed the Cyclades in Greece with some great friends and have been slowly growing our passion for sailing. We loved it immediately and have been planning a long trip for a few years now. 
