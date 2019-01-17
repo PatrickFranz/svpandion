@@ -1,0 +1,35 @@
+patrick:
+  username: patrick
+  name: Patrick
+  url_full: https://www.patrickfranz.com
+  bio: An ocean based Web Developer
+  picture: assets/images/patrick.png
+  facebook: patrick.franz.585
+  twitter: ThePatrickFranz
+  cover: assets/images/waves.jpg
+
+tara:
+  username: tara
+  name: Tara
+  location: Redwood City, California
+  bio: A sailor, UX Researcher, and master of canvas.
+  picture: assets/images/tara.jpg
+  facebook: False
+  twitter: erisds
+  cover: assets/images/tara_cover.jpg
+
+everest:
+  username: everest
+  name: Everest
+  location: Redwood City, CA
+  url_full: False
+  url: false
+  bio: Shredder of guitars, lover of pugs, and all around great kid!
+  picture: assets/images/everest.jpg
+  facebook: False
+  twitter: False
+  cover: assets/images/everest_cover.jpg
+
+
+
+

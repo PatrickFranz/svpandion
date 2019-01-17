@@ -1,0 +1,39 @@
+.sv-cols{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+  align-content: top;
+}
+
+@media screen and (max-width: 800px){
+  .sv-cols{
+    grid-template-columns: 1fr;
+
+  }
+}
+
+.sv-cols img{
+  margin: 1rem 0 !important;
+  max-width: 400px !important; 
+}
+
+.sv-cols .sv-leg-info .sv-destinations{
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+.sv-cols .sv-leg-info .leg-info-text{
+
+}
+
+.sv-cols .sv-leg-info .sv-destinations img{
+  display: inline;
+  width: 1rem;
+}
+
+.sv-cols .col-right{
+
+}
+.sv-cols .col-left{
+
+}
